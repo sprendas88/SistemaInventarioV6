@@ -1,0 +1,11 @@
+C:\Proyectos\2022\SistemaInventarioV6\SistemaInventarioV6.Utilidades\bin\Debug\net7.0\SistemaInventarioV6.Utilidades.deps.json
+C:\Proyectos\2022\SistemaInventarioV6\SistemaInventarioV6.Utilidades\bin\Debug\net7.0\SistemaInventarioV6.Utilidades.dll
+C:\Proyectos\2022\SistemaInventarioV6\SistemaInventarioV6.Utilidades\bin\Debug\net7.0\SistemaInventarioV6.Utilidades.pdb
+C:\Proyectos\2022\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net7.0\SistemaInventarioV6.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\2022\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net7.0\SistemaInventarioV6.Utilidades.AssemblyInfoInputs.cache
+C:\Proyectos\2022\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net7.0\SistemaInventarioV6.Utilidades.AssemblyInfo.cs
+C:\Proyectos\2022\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net7.0\SistemaInventarioV6.Utilidades.csproj.CoreCompileInputs.cache
+C:\Proyectos\2022\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net7.0\SistemaInventarioV6.Utilidades.dll
+C:\Proyectos\2022\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net7.0\refint\SistemaInventarioV6.Utilidades.dll
+C:\Proyectos\2022\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net7.0\SistemaInventarioV6.Utilidades.pdb
+C:\Proyectos\2022\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net7.0\ref\SistemaInventarioV6.Utilidades.dll

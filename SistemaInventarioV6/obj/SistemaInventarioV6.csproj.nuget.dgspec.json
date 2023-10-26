@@ -4,6 +4,200 @@
     "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\SistemaInventarioV6.csproj": {}
   },
   "projects": {
+    "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventario.AD\\SistemaInventarioV6.AD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventario.AD\\SistemaInventarioV6.AD.csproj",
+        "projectName": "SistemaInventarioV6.AD",
+        "projectPath": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventario.AD\\SistemaInventarioV6.AD.csproj",
+        "packagesPath": "C:\\Users\\spren\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventario.AD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\spren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventario.Modelos\\SistemaInventarioV6.Modelos.csproj": {
+                "projectPath": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventario.Modelos\\SistemaInventarioV6.Modelos.csproj"
+              },
+              "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\SistemaInventarioV6.Utilidades.csproj": {
+                "projectPath": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\SistemaInventarioV6.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventario.Modelos\\SistemaInventarioV6.Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventario.Modelos\\SistemaInventarioV6.Modelos.csproj",
+        "projectName": "SistemaInventarioV6.Modelos",
+        "projectPath": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventario.Modelos\\SistemaInventarioV6.Modelos.csproj",
+        "packagesPath": "C:\\Users\\spren\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventario.Modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\spren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\SistemaInventarioV6.Utilidades.csproj": {
+                "projectPath": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\SistemaInventarioV6.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\SistemaInventarioV6.Utilidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\SistemaInventarioV6.Utilidades.csproj",
+        "projectName": "SistemaInventarioV6.Utilidades",
+        "projectPath": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\SistemaInventarioV6.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\spren\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\spren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\SistemaInventarioV6.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -18,16 +212,26 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {}
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventario.AD\\SistemaInventarioV6.AD.csproj": {
+                "projectPath": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventario.AD\\SistemaInventarioV6.AD.csproj"
+              },
+              "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventario.Modelos\\SistemaInventarioV6.Modelos.csproj": {
+                "projectPath": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventario.Modelos\\SistemaInventarioV6.Modelos.csproj"
+              },
+              "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\SistemaInventarioV6.Utilidades.csproj": {
+                "projectPath": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\SistemaInventarioV6.Utilidades.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -37,28 +241,38 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.20, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.20, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[6.0.20, )"
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.20, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.20, )"
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.9, )"
             }
           },
           "imports": [
