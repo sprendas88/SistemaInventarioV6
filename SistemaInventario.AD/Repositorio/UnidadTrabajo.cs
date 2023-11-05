@@ -10,7 +10,8 @@ namespace SistemaInventarioV6.AD.Repositorio
 
         public UnidadTrabajo(ApplicationDbContext db) 
         { 
-            _db = db;
+            this._db = db;
+            this.Bodega = new BodegaRepositorio(_db);
         }
 
         public void Dispose()
