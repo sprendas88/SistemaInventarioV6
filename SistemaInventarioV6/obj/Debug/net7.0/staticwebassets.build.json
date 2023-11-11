@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ijlRvA6/gc1TaFOIdnBHArHXKBsDzKTfd1ekaNhFFrs=",
+  "Hash": "LBxzWPmeDnoHbkbBKVpEnDQcNYZms3VS2dn8kXgM828=",
   "Source": "SistemaInventarioV6",
   "BasePath": "_content/SistemaInventarioV6",
   "Mode": "Default",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\Bodega.js",
+      "Identity": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\bodega.js",
       "SourceId": "SistemaInventarioV6",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\",
       "BasePath": "_content/SistemaInventarioV6",
-      "RelativePath": "js/Bodega.js",
+      "RelativePath": "js/bodega.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,7 +99,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\Bodega.js"
+      "OriginalItemSpec": "wwwroot\\js\\bodega.js"
+    },
+    {
+      "Identity": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\categoria.js",
+      "SourceId": "SistemaInventarioV6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\",
+      "BasePath": "_content/SistemaInventarioV6",
+      "RelativePath": "js/categoria.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\categoria.js"
     },
     {
       "Identity": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\site.js",
