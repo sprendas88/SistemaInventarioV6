@@ -26,7 +26,7 @@ namespace SistemaInventarioV6.AD.Repositorio
             return await dbSet.FindAsync(id); 
         }
 
-        public async Task<T> ObtenerPrimero(Expression<Func<T, bool>> filtro = null, string incluirPropiedades = null, bool isTracking = true)
+        public async Task<T> ObtenerPrimero(Expression<Func<T, bool>> ?filtro, string ?incluirPropiedades, bool isTracking = true)
         {
             IQueryable<T> query = dbSet;
             if (filtro != null)

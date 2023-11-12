@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace SistemaInventarioV6.Modelos
 {
@@ -14,11 +9,11 @@ namespace SistemaInventarioV6.Modelos
         
         [Required(ErrorMessage = "Nombre es Requerido")]
         [MaxLength(60, ErrorMessage = "Nombre debe ser Maximo 60 Caracteres")]
-        public string Nombre { get; set; }
+        public string? Nombre { get; set; }
 
         [Required(ErrorMessage = "Descripcion es Requerido")]
 
-        public string Descripcion { get; set; }
+        public string? Descripcion { get; set; }
 
         public bool Estado { get; set; }
     }

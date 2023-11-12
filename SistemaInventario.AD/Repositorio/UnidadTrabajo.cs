@@ -8,12 +8,15 @@ namespace SistemaInventarioV6.AD.Repositorio
         private readonly ApplicationDbContext _db;
         public IBodegaRepositorio Bodega { get; private set; }
 
-        public ICategoriaRepositorio Categoria { get; private set; }    
+        public ICategoriaRepositorio Categoria { get; private set; }
+
+        public IMarcaRepositorio Marca { get; private set; }
         public UnidadTrabajo(ApplicationDbContext db) 
         { 
             this._db = db;
             this.Bodega = new BodegaRepositorio(_db);
             this.Categoria = new CategoriaRepositorio(_db);
+            this.Marca = new MarcaRepositorio(_db); 
         }
 
         public void Dispose()

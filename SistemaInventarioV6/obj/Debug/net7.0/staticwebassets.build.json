@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LBxzWPmeDnoHbkbBKVpEnDQcNYZms3VS2dn8kXgM828=",
+  "Hash": "2qx4pp6tWX3g0eYtylBoIaHxjq/BPS+sLmfx+AZCU4c=",
   "Source": "SistemaInventarioV6",
   "BasePath": "_content/SistemaInventarioV6",
   "Mode": "Default",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\categoria.js"
+    },
+    {
+      "Identity": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\marca.js",
+      "SourceId": "SistemaInventarioV6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\",
+      "BasePath": "_content/SistemaInventarioV6",
+      "RelativePath": "js/marca.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\marca.js"
     },
     {
       "Identity": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\site.js",
