@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\imagenes\\producto\\448f0fb3-e2bb-42fc-94ad-3f132a268f62.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\448f0fb3-e2bb-42fc-94ad-3f132a268f62.JPG"
+    },
+    {
       "Id": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\bodega.js",
       "PackagePath": "staticwebassets\\js\\bodega.js"
     },
@@ -23,6 +27,10 @@
     {
       "Id": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\marca.js",
       "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
     },
     {
       "Id": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\site.js",

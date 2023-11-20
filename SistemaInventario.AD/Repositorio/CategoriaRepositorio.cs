@@ -15,7 +15,7 @@ namespace SistemaInventarioV6.AD.Repositorio
         public void Actualizar(Categoria categoria)
         {
             var categoriaDB = this._db.Categorias.FirstOrDefault(b => b.Id == categoria.Id);
-            if (categoria != null)
+            if (categoriaDB != null)
             {
                 categoriaDB.Nombre = categoria.Nombre;
                 categoriaDB.Descripcion = categoria.Descripcion;

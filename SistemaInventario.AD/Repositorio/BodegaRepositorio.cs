@@ -15,7 +15,7 @@ namespace SistemaInventarioV6.AD.Repositorio
         public void Actualizar(Bodega bodega)
         {
             var BodegaDB = this._db.Bodegas.FirstOrDefault(b => b.Id == bodega.Id);
-            if (bodega != null)
+            if (BodegaDB != null)
             {
                 BodegaDB.Nombre = bodega.Nombre;
                 BodegaDB.Descripcion = bodega.Descripcion;

@@ -559,3 +559,5 @@ C:\Proyectos\2022\SistemaInventarioV6\SistemaInventarioV6\obj\Debug\net7.0\refin
 C:\Proyectos\2022\SistemaInventarioV6\SistemaInventarioV6\obj\Debug\net7.0\SistemaInventarioV6.pdb
 C:\Proyectos\2022\SistemaInventarioV6\SistemaInventarioV6\obj\Debug\net7.0\SistemaInventarioV6.genruntimeconfig.cache
 C:\Proyectos\2022\SistemaInventarioV6\SistemaInventarioV6\obj\Debug\net7.0\ref\SistemaInventarioV6.dll
+C:\Proyectos\2022\SistemaInventarioV6\SistemaInventarioV6\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Proyectos\2022\SistemaInventarioV6\SistemaInventarioV6\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll

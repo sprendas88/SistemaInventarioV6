@@ -15,7 +15,7 @@ namespace SistemaInventarioV6.AD.Repositorio
         public void Actualizar(Marca marca)
         {
             var marcaDB = this._db.Marcas.FirstOrDefault(b => b.Id == marca.Id);
-            if (marca != null)
+            if (marcaDB != null)
             {
                 marcaDB.Nombre = marca.Nombre;
                 marcaDB.Descripcion = marca.Descripcion;
