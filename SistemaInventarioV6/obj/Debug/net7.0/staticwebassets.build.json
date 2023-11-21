@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rc/yqXF6NNv0eAgv9a0EqIvPiD7qQ9y9Hf2j5flR47c=",
+  "Hash": "MJZZtUVoNtjmN8q/6IipHorCffa5rEqMnDznr5pnZAQ=",
   "Source": "SistemaInventarioV6",
   "BasePath": "_content/SistemaInventarioV6",
   "Mode": "Default",
@@ -153,6 +153,40 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\producto\\448f0fb3-e2bb-42fc-94ad-3f132a268f62.JPG"
     },
     {
+      "Identity": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\imagenes\\producto\\50704828-0c3a-445e-a429-538df7f44414.JPG",
+      "SourceId": "SistemaInventarioV6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\",
+      "BasePath": "_content/SistemaInventarioV6",
+      "RelativePath": "imagenes/producto/50704828-0c3a-445e-a429-538df7f44414.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\producto\\50704828-0c3a-445e-a429-538df7f44414.JPG"
+    },
+    {
+      "Identity": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\imagenes\\producto\\75eff717-ba90-43fe-9912-2e046d0317ca.JPG",
+      "SourceId": "SistemaInventarioV6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\",
+      "BasePath": "_content/SistemaInventarioV6",
+      "RelativePath": "imagenes/producto/75eff717-ba90-43fe-9912-2e046d0317ca.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\producto\\75eff717-ba90-43fe-9912-2e046d0317ca.JPG"
+    },
+    {
       "Identity": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\imagenes\\producto\\84d62bc0-6247-47db-ae98-b8212cdef2a6.JPG",
       "SourceId": "SistemaInventarioV6",
       "SourceType": "Discovered",
@@ -168,6 +202,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\producto\\84d62bc0-6247-47db-ae98-b8212cdef2a6.JPG"
+    },
+    {
+      "Identity": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\imagenes\\producto\\c0e4f445-7b6d-4ea1-b741-d1b549fe273d.JPG",
+      "SourceId": "SistemaInventarioV6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\",
+      "BasePath": "_content/SistemaInventarioV6",
+      "RelativePath": "imagenes/producto/c0e4f445-7b6d-4ea1-b741-d1b549fe273d.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\producto\\c0e4f445-7b6d-4ea1-b741-d1b549fe273d.JPG"
     },
     {
       "Identity": "C:\\Proyectos\\2022\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\bodega.js",
